@@ -1,0 +1,8 @@
+com\example\demo\repository\MultipleChoiceQuestionRepository.class
+com\example\demo\repository\TestRepository.class
+com\example\demo\models\dashboard\Test.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\models\dashboard\User.class
+com\example\demo\controller\dashboard\TestController.class
+com\example\demo\models\dashboard\MultipleChoiceQuestion.class
+com\example\demo\models\dashboard\MultipleChoiceAnswer.class
